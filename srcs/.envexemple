@@ -1,0 +1,20 @@
+PATH_TO_VOLUMES=/User/plbuet/data
+DOMAIN_NAME=pbuet.42.fr
+
+# MariaDB
+MYSQL_DATABASE=wordpress
+MYSQL_USER=wpuser
+MYSQL_PASSWORD=wppassword
+MYSQL_ROOT_PASSWORD=changeme
+
+# WordPress — connexion à MariaDB
+WORDPRESS_DB_HOST=mariadb
+
+# WordPress — installation
+WP_TITLE=Inception
+WP_ADMIN_USER=wp
+WP_ADMIN_PASSWORD=wppass
+WP_ADMIN_EMAIL=wp@pbuet.42.fr
+WP_USER=wpuser42
+WP_USER_EMAIL=wpuser@pbuet.42.fr
+WP_USER_PASSWORD=changeme

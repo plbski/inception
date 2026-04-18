@@ -1,0 +1,3 @@
+- example env so no password in the .env 🤪
+- tag your dokerfiles with a version so you can "force" a version and not have the default "latest" as forbidden by the subject
+- why tf does wp work ? HOOOWL 🦉
