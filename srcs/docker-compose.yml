@@ -53,7 +53,7 @@ volumes:
     driver_opts:
       type: none
       o: bind
-      device: ${PATH_TO_VOLUMES}/wordpress
+      device: ${PATH_TO_VOLUMES}/wordpress_data
 
 
   mariadb_data:
